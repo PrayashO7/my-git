@@ -1,2 +1,17 @@
-# my-git
-a git implementation from scratch in python
+# MyGit
+
+A Git implementation built from scratch.
+
+## Commands
+
+- init
+- add
+- commit
+- log
+
+(Current Progress)
+
+✅ init
+⬜ add
+⬜ commit
+⬜ log
